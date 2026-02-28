@@ -54,7 +54,7 @@ function App() {
               style={{ textDecoration: 'none', color: 'var(--primary)' }}>
               <span>Instagram</span>
             </a>
-            <a href='https://wa.me/6289674458606' target="_blank" rel="noopener noreferrer"
+            <a href='https://wa.me/6285881975158' target="_blank" rel="noopener noreferrer"
               style={{ textDecoration: 'none', color: 'var(--primary)' }}>
               <span>WhatsApp</span>
             </a>
